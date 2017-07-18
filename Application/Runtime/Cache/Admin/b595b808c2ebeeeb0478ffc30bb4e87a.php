@@ -75,7 +75,7 @@
         <a href=""><i class="fa fa-fw fa-dashboard"></i> 首页</a>
       </li>
       <li>
-        <a href=""><i class="fa fa-fw fa-bar-chart-o"></i>菜单管理</a>
+        <a href="/index.php?m=admin&c=menu&index"><i class="fa fa-fw fa-bar-chart-o"></i>菜单管理</a>
       </li>
 
     </ul>
@@ -206,10 +206,10 @@
 </div>
     <!-- /#wrapper -->
 
+<script src="/Public/js/jquery.js"></script>
+<script src="/Public/js/dialog/layer.js"></script>
+<script src="/Public/js/dialog.js"></script>
 <script src="/Public/js/admin/common.js"></script>
-
-
-
 </body>
 
 </html>
